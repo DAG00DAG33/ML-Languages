@@ -4,6 +4,7 @@ Aqui tengo diferentes proyectos hechos con cada libreria principal de ML
 - Keras
 - Pytorch
 - Puede que en un futuro haga mas
+
 Tambien un notebook llamado cheatSheet donde tengo fragmentos de codigo para copiar y pegar y montar proyectos rapidamente.
 Estan esctitos en mi estilo, seguremnte se pueda hacer todo el proceso de otras formas, y seguramente varias mejores.
 
