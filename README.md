@@ -10,7 +10,7 @@ Estan esctitos en mi estilo, seguremnte se pueda hacer todo el proceso de otras 
 
 Con cada libreria quiero hacer
 - Classificacion de imagenes (Dedos)
-- Autoencoder (Faces)
+- Autoencoder (Faces) (En la version de Keras tiene sliders para modificar la cara)
 - GAN (con la base de datos de faces)
 - Bw2Color
 
